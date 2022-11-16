@@ -1,1 +1,2 @@
-Este ejercicio corresponde a la sesion 15, usando HTML y Js
+Este ejercicio corresponde a la sesion 15, ha sido creado utilizando las siguientes tecnologias:
+Html y Js
